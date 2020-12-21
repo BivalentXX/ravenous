@@ -1,3 +1,5 @@
+A simple App that displays the nodes of a JSON tree from the Yelp API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
